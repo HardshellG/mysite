@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import altair as alt
+
+
 st.title("Jee")
 
 df=pd.read_csv("C:/Users/Harshan/Desktop/mysite/Total Seats.csv")
